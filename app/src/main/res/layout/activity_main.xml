@@ -9,8 +9,8 @@
 
     <ToggleButton
         android:id="@+id/toggleBtn"
-        android:textOn="Recording"
-        android:textOff="Stop"
+        android:textOn="Stop"
+        android:textOff="Recording"
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
